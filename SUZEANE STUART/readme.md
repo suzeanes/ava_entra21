@@ -1,19 +1,14 @@
 #Ferramentas Kaban
+Descreva sobre a Ferramenta.
 
-Aprendizados:
-git clone
-criar readme na nova pasta
-git add .
-git commint -m "abertura processo"
-git pull
 
 ## 5 Ferramentas Kanban
 
-*Gitmind*
-*Asana*
-*Meistertask*
-*ProjectManager.com*
-*Monday.com*
+1. Gitmind
+2. Asana
+3. Meistertask
+4. ProjectManager.com
+5. Monday.com
 
 ### GitMind
 É uma ferramente online de mapeamento mental que pode ser usado para criar programas, planos, tarefas e outro projetos para organizar e simplificar o fluxo de trabalho.

@@ -4,11 +4,11 @@ Descreva sobre a Ferramenta.
 
 ## 5 Ferramentas Kanban
 
-1. Gitmind
-2. Asana
-3. Meistertask
-4. ProjectManager.com
-5. Monday.com
+1 Gitmind
+2 Asana
+3 Meistertask
+4 ProjectManager.com
+5 Monday.com
 
 ### GitMind
 É uma ferramente online de mapeamento mental que pode ser usado para criar programas, planos, tarefas e outro projetos para organizar e simplificar o fluxo de trabalho.
@@ -24,7 +24,7 @@ Com esta ferramenta alternativa, é possível conectar e partilhar as tarefas de
 É uma combinaçao entre planejamento de Projetos e Gestão de Tarefas, além de possuir funções colaborativas.
 É uma ferramente beseada em Cloud.
 
-###Monday.com
+### Monday.com
 
 Esta ferramenta foi criada para organizar as tarefas de uma maneira flexível. Apresenta uma interface atrativa no qual é muito útil para visualizar tarefas projetos. É possível personalizar o fluxo de trabalho e atribuir tarefas á Equipe.
 

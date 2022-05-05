@@ -4,11 +4,9 @@ Descreva sobre a Ferramenta.
 
 ## 5 Ferramentas Kanban
 
-1 Gitmind
-2 Asana
-3 Meistertask
-4 ProjectManager.com
-5 Monday.com
+As principais ferramentas Kanban são: Gitmind, Asana,
+Meistertask, ProjectManager.com, Monday.com. 
+Abaixo breve resumo sobre as principais ferramentas:
 
 ### GitMind
 É uma ferramente online de mapeamento mental que pode ser usado para criar programas, planos, tarefas e outro projetos para organizar e simplificar o fluxo de trabalho.
